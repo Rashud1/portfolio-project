@@ -94,6 +94,8 @@ nav ul li a:hover::after{
     font-size: 60px;
     font-weight: 600;
     color: #fff;
+  
+
 }
 .tab-title{
     display: flex;
@@ -135,6 +137,13 @@ nav ul li a:hover::after{
     display:block;
 }
 /* ------services------- */
+.anothercontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 0;
+    width: 100%;
+}
 #services{
     padding: 30px 0;
 }
@@ -303,5 +312,4 @@ form btn2{
     font-size: 18px;
     margin-top: 20px;
     cursor: pointer;
-
 }
